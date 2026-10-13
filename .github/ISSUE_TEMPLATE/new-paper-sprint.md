@@ -1,7 +1,7 @@
 ---
 name: New Paper Sprint
 about: 'Template to propose a new paper sprint '
-title: "Your sprint name "
+title: 'Your sprint name '
 labels: Paper Sprint
 assignees: ''
 

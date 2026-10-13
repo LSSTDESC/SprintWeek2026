@@ -1,7 +1,7 @@
 ---
 name: New Infrastructure Sprint
 about: 'Template to propose a new infrastructure sprint '
-title: "Your sprint name "
+title: 'Your sprint name '
 labels: Infrastructure Sprint
 assignees: ''
 
