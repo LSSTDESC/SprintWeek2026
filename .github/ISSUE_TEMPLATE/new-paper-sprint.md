@@ -15,7 +15,6 @@ Contacts:
 Day/Time: 
 Main communication channel:
 GitHub repo:
-Zoom room (if applicable):
 
 ## Goals and deliverable
 
